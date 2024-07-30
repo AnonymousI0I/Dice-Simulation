@@ -21,8 +21,8 @@ This Python script simulates rolling a specified number of dice. The main functi
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/dice-rolling-simulator.git
-    cd dice-rolling-simulator
+    git clone https://github.com/AnonymousI0I/Dice-Simulation.git
+    cd Dice-Simulation
     ```
 
 2. **Ensure Python 3.x is installed on your machine**.
@@ -32,7 +32,7 @@ This Python script simulates rolling a specified number of dice. The main functi
 1. **Run the script**:
 
     ```bash
-    python roll_dice.py
+    python Dice Simulation.py
     ```
 
 2. **Follow the on-screen prompts to roll the dice or exit the program**:
